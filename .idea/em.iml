@@ -6,5 +6,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="api" level="application" />
+    <orderEntry type="library" name="@types/google.script.client-side" level="application" />
   </component>
 </module>
